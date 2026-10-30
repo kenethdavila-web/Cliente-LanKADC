@@ -1,5 +1,5 @@
 #!/bin/sh
-TARGET="https://servidor-web-dmz.onrender.com"
+TARGET="https://servidor-web-dmz-kadc.onrender.com"
 
 echo "=== SIMULACIÓN: GENERANDO TRÁFICO MASIVO HTTP ==="
 for i in $(seq 1 30); do
